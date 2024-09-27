@@ -1,4 +1,4 @@
-## this is a Quote Generator
+## this is a Qtext to speech
 
 #### it makes with HTML CSS JavaScript
 
